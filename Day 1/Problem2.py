@@ -16,7 +16,7 @@ mapping = {
 }
 for string in input_text:
     n = len(string)
-    first_num = Noneq
+    first_num = None
     last_num = None
     for i in range(n):
         if string[i].isnumeric():
