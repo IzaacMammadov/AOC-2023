@@ -1,6 +1,6 @@
 """Day 1 - Problem 1 of Advent of Code 2023"""
 output = 0
-with open("Day 1/input.txt") as input_file:
+with open("input.txt") as input_file:
     input_text = input_file.read().splitlines()
 for string in input_text:
     n = len(string)
