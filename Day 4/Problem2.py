@@ -1,4 +1,4 @@
-"""Day 4 - Problem 1 of Advent of Code 2023"""
+"""Day 4 - Problem 2 of Advent of Code 2023"""
 with open("input.txt") as input_file:
     input_text = input_file.read().splitlines()
 
