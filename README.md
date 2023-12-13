@@ -5,7 +5,7 @@ All solutions were coded up without the use of any hints.
 
 ## Leaderboard Times
 
-The times below show my leaderboard times for the problems where I woke up at 5am UTC for:
+The table below show my leaderboard times for the problems where I woke up at 5am UTC for:
 
 ````
       --------Part 1--------   --------Part 2--------
