@@ -10,6 +10,7 @@ The table below show my leaderboard times for the problems where I woke up at 5a
 ````
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 20   00:46:17    812      0   01:21:40    821      0
  19   00:15:45    387      0   01:04:15   1065      0
  18   00:42:51   2437      0   01:54:40   2434      0
  17   00:47:14   1200      0   01:19:54   1474      0
