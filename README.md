@@ -1,7 +1,7 @@
 # AOC-2023
 
 Solutions for the Advent of Code challenges 2023. See the website here: https://adventofcode.com/2023.
-All solutions were coded up without the use of any hints.
+All solutions are original without any outside help/discussion.
 
 ## Leaderboard Times
 
@@ -10,6 +10,7 @@ The table below show my leaderboard times for the problems where I woke up at 5a
 ````
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 22   01:06:29   1519      0   01:22:55   1322      0  [Started 15m late]
  20   00:46:17    812      0   01:21:40    821      0
  19   00:15:45    387      0   01:04:15   1065      0
  18   00:42:51   2437      0   01:54:40   2434      0
